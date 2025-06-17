@@ -1,0 +1,2 @@
+# TicTacToe
+ 🧠 2D Tic Tac Toe Multiplayer (Unity + Netcode for GameObjects) This is a simple 2D Tic Tac Toe game built in Unity using Netcode for GameObjects (NGO) to support multiplayer over LAN or Unity Relay.  ✨ Features 🧩 Classic 3x3 Tic Tac Toe board  👥 Multiplayer support using Unity Netcode  🌐 Host and join game over network  🕹️ Simple and clean 2D UI  🔄 Turn-based logic with win/draw detection  🛠️ Tech Stack Unity 2022+  Netcode for GameObjects  Unity Transport / Unity Relay (optional for online)
